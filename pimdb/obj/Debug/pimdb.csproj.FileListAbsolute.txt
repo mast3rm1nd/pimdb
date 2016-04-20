@@ -1,0 +1,5 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\pimdb\pimdb\bin\Debug\pimdb.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\pimdb\pimdb\bin\Debug\pimdb.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\pimdb\pimdb\obj\Debug\pimdb.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\pimdb\pimdb\obj\Debug\pimdb.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\pimdb\pimdb\obj\Debug\pimdb.pdb
